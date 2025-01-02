@@ -5,12 +5,12 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>regita portofolio - Index</title>
+  <title>REGITA-PORTOFOLIO</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/re1.jpg" rel="icon">
+  <link href="assets/img/rere.jpg" rel="icon">
   <link href="assets/img/regita.jpg" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -91,7 +91,7 @@
 
         <div class="row">
           <div class="col-lg-4" data-aos="fade-right">
-            <img src="assets/img/rere.jpg" class="img-fluid" alt="">
+            <img src="assets/img/re1.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>STUDENT  AT SMK TELKOM SIDOARJO</h3>
@@ -115,8 +115,8 @@
               </div>
             </div>
             <p>
-              Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
+              I believe that every challenge is an opportunity to learn and grow. Throughout this journey, I continually sharpen my skills and expand my knowledge to deliver the best results in both professional and personal projects. 
+              The desire to keep innovating and evolving lies at the heart of everything I do.
             </p>
           </div>
         </div>
@@ -130,7 +130,7 @@
 
         <div class="section-title">
           <h2>Facts</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>This is a summary of what Regita has been doing so far and where the school is.</p>
         </div>
 
         <div class="row no-gutters">
@@ -170,7 +170,8 @@
         </div>
 
       </div>
-    </section><!-- End Facts Section -->
+    </section>
+    <!-- End Facts Section -->
 
     <!-- ======= Skills Section ======= -->
     <section id="skills" class="skills section-bg">
@@ -178,31 +179,47 @@
 
         <div class="section-title">
           <h2>Skills</h2>
-          <p>because I went to SMK Telkom where this school is basically digital. so I understand a little bit about telecommunications, besides that I can photograpy and because I choose digital talent program (dtp) Hacker so I more or less understand programming language</p>
-        </div>
+          <p>
+            Because I studied at SMK Telkom, a school with a strong focus on digital technology, I have gained a basic understanding of telecommunications. In addition, I have skills in photography and, through my participation in the Digital Talent Program (DTP) Hacker, I have acquired knowledge of programming languages. During my internship program, I also developed the ability to apply several applications effectively.
+            </p>
+         </div>
 
         <div class="row skills-content">
 
           <div class="col-lg-6" data-aos="fade-up">
 
             <div class="progress">
-              <span class="skill">HTML <i class="val">100%</i></span>
+              <span class="skill">HTML <i class="val">50%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">CSS <i class="val">90%</i></span>
+              <span class="skill">CSS <i class="val">60%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">JavaScript <i class="val">75%</i></span>
+              <span class="skill">JavaScript <i class="val">30%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Capcut <i class="val">85%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">uNITY <i class="val">45%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
@@ -211,23 +228,30 @@
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
 
             <div class="progress">
-              <span class="skill">PHP <i class="val">80%</i></span>
+              <span class="skill">PHP <i class="val">40%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">WordPress/CMS <i class="val">90%</i></span>
+              <span class="skill">Katalon Studio <i class="val">50%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Photoshop <i class="val">55%</i></span>
+              <span class="skill">Photoshop <i class="val">50%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Excel <i class="val">80%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
@@ -244,7 +268,7 @@
 
         <div class="section-title">
           <h2>Resume</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>This is a summary of what Regita has been doing so far and where the school is </p>
         </div>
 
         <div class="row">
@@ -252,11 +276,11 @@
             <h3 class="resume-title">Sumary</h3>
             <div class="resume-item pb-0">
               <h4>Regita Cahyani Ayu Pramesti</h4>
-              <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
+              <p><em>Regita's journey began with a place that did not want to be enrolled in a pharmacy vocational high school, because according to her pharmacy was not her passion. He always wanted to study in the engineering department and finally his father enrolled him at SMK Telkom Sidoarjo. </em></p>
               <ul>
-                <li>Portland par 127,Orlando, FL</li>
-                <li>(123) 456-7891</li>
-                <li>alice.barkley@example.com</li>
+                <li>Kabalan, Kanor, Bojonegoro</li>
+                <li>+62 857 9036 0797</li>
+                <li>cahyaniregita623@gmail.com</li>
               </ul>
             </div>
 
@@ -281,25 +305,62 @@
             <h3 class="resume-title"> Experience</h3>
             <div class="resume-item">
               <h4>National Inovation Project</h4>
-              <h5>04 Sept 2022</h5>
+              <h5>September 2022</h5>
               <p><em>competitions held by ICHEVO, Sepuluh Nopember Institute of Technology </em></p>
-              <ul>
-                <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-                <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-                <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
-              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Olympiad competition</h4>
+              <h5>February 2023</h5>
+              <p><em>The competition was organized by the Indonesia Olympiad, participated in the PAI Olympiad, and successfully won a silver medal</em></p>
             </div>
             <div class="resume-item">
               <h4>Short Movie Comp</h4>
-              <h5>04 Sept 2023</h5>
+              <h5>July 2023</h5>
               <p><em>competitions held by PT Indo Bismar and Axioo</em></p>
-              <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
-              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Techfest & Skobic</h4>
+              <h5>October 2023</h5>
+              <p><em>
+                An internal competition held to celebrate the 4th anniversary of SMK Telkom Sidoarjo. For Techfest, I designed a website with the theme of marine ecosystems using Figma, then converted the design into a functional website. On the second day, I created a CRUD application. Meanwhile, Skobic was a business plan competition.
+                </em></p>
+            </div>
+            <div class="resume-item">
+              <h4>Test Pre-Internship Program</h4>
+              <h5>February 2024</h5>
+              <p><em>
+                  The pre-internship test from PT Floo Integra Digital, where I developed a financial tracking website using CRUD operations and the Laravel framework. 
+                  In this project, I learned about web application development, including how to design and manage databases, as well as implementing CRUD features for financial data management.
+              </em></p>
+            </div>
+            <div class="resume-item">
+              <h4>Examination</h4>
+              <h5>February 2024</h5>
+              <p><em>
+                Designing and implementing a CRUD-based library application to facilitate data management, including pages for managing authors, publishers, and books within the library system.
+              </em></p>
+            </div>
+            <div class="resume-item">
+              <h4>Level Advancement Examination </h4>
+              <h5>May 2024</h5>
+              <p><em>
+                Level Advancement Examination in May 2024 involved creating a mobile application as part of a team. We used JavaScript to develop the app with a tourism theme, integrating APIs provided for the project. This experience allowed me to collaborate effectively within a team and apply programming skills to deliver a functional and creative application.
+              </em></p>
+            </div>
+            <div class="resume-item">
+              <h4>Festival Inovasi dan Kewiraushaan Siswa Nasional (FIKSI) </h4>
+              <h5>September 2024</h5>
+              <p><em>
+                The National Student Innovation and Entrepreneurship Festival (FIKSI) is a competition organized by the National Achievement Center. In September 2024, my team and i participated in this prestigious event and successfully advanced to the second stage. This experience allowed me to enhance my problem-solving skills, showcase my innovative ideas, and gain valuable insights into the world of entrepreneurship.
+                </em></p>
+            </div>
+            <div class="resume-item">
+              <h4>Internship Program</h4>
+              <h5>June - December 2024</h5>
+              <p><em>
+                I participated in an internship program at PT Floo Integra Digital for five months, followed by a one-month work contract. During the internship, I handled various roles, including front-end development, digital marketing, QA & documentation engineering, and data analysis. 
+                However, my primary focus was on QA & documentation engineering and data analysis, where I gained significant expertise and contributed to the team's objectives effectively.
+              </em></p>
             </div>
           </div>
         </div>
@@ -313,7 +374,7 @@
 
         <div class="section-title">
           <h2>Portfolio</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Below are some of the projects I have worked on, showcasing my skills and experience in developing various applications. Each project highlights different aspects of my expertise and my commitment to delivering high-quality solutions.</p>
         </div>
 
         <div class="row" data-aos="fade-up">
@@ -329,92 +390,109 @@
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
 
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/reresky1.png" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/reresky1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/reresky1.png" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/reresky2.png" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/reresky3.png" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/reresky4.png" title="More Details"><i class="bx bx-link"></i></a></div>
+            </div>
+          </div>
+
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/2N1.jpeg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/2N1.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/2N.jpeg" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/BC1.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/BC1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/BC1.png" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/BC2.png" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/BC3.png" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/BC4.png" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/TW1.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/TW1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/TW1.png" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/TW2.png" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/TW3.png" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/TW4.png" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/BQ1.png" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/BQ1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/BQ1.png" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/BQ2.png" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/BQ3.png" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/BQ4.png" title="More Details"><i class="bx bx-link"></i></a>
+
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/cp1.png" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/cp1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/cp1.png" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/cp2.png" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/b1.png" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/b1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/b1.png" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/b2.png" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/suhu.png" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/suhu.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/suhu.png" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/well1.png" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/well1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/well1.png" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/well2.png" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/well3.png" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/well4.png" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -625,21 +703,7 @@
 
   </main><!-- End #main -->
 
-  <!-- ======= Footer ======= -->
-  <footer id="footer">
-    <div class="container">
-      <div class="copyright">
-        &copy; Copyright <strong><span>iPortfolio</span></strong>
-      </div>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-      </div>
-    </div>
-  </footer><!-- End  Footer -->
+
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
