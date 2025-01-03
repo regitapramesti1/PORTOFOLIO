@@ -46,14 +46,13 @@
     <div class="d-flex flex-column">
 
       <div class="profile">
-        <img src="assets/img/regita.jpg" alt="" class="img-fluid rounded-circle">
+        <img src="assets/img/r2.jpeg" alt="" class="img-fluid rounded-circle">
         <h1 class="text-light"><a href="index.html">Regita Cahyani Ayu Pramesti</a></h1>
         <div class="social-links mt-3 text-center">
-          <a href="https://twitter.com/Regitaaaaa3?t=z7L_460VoWFeL_sOrY_IIw&s=09" class="twitter"><i class="bx bxl-twitter"></i></a>
-          <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
           <a href="https://instagram.com/stvrlight_f4?igshid=MzRlODBiNWFlZA==" class="instagram"><i class="bx bxl-instagram"></i></a>
-          <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+          <a href="https://www.tiktok.com/@rereeq1?_t=ZS-8skh6LHmv4x&_r=1" class="tiktok"><i class="bx bxl-tiktok"></i></a>
           <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <a href="https://github.com/regitapramesti1" class="github"><i class="bx bxl-github"></i></a>
         </div>
       </div>
 
@@ -91,7 +90,7 @@
 
         <div class="row">
           <div class="col-lg-4" data-aos="fade-right">
-            <img src="assets/img/re1.jpg" class="img-fluid" alt="">
+            <img src="assets/img/r1.jpeg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>STUDENT  AT SMK TELKOM SIDOARJO</h3>
